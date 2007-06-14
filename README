@@ -248,6 +248,10 @@ CREDITS
     quirks, annoyances or any other negative side effects with this module -
     blame me - not "hv."
 
+THANKS
+    Thanks to Alexey A. Kiritchun for pointing out untaint failure on
+    multiline strings.
+
 AUTHOR
     Paul Seamons (2005)
 
